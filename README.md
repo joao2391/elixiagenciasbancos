@@ -1,3 +1,6 @@
+[![Elixbacen version](https://img.shields.io/hexpm/v/elixagenciasbancos.svg)](https://hex.pm/packages/elixagenciasbancos)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-lightgreen.svg)](https://hexdocs.pm/elixagenciasbancos/)
+[![Hex.pm](https://img.shields.io/hexpm/dt/elixagenciasbancos.svg)](https://hex.pm/packages/)
 # Elixagenciasbancos
 
 Elixagenciasbancos helps you to get brazilian's bank agencies.
